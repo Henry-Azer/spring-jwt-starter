@@ -1,15 +1,15 @@
 # spring-jwt-starter
 Spring security JWT starter, Spring boot App.
 
-•	APIs:
-  1- http://localhost:8080/api/auth/login [POST]
-  2- http://localhost:3000/api/user/info [GET]
+•	APIs:  
+  1- http://localhost:8080/api/auth/login [POST]  
+  2- http://localhost:3000/api/user/info [GET]  
 
-•	JSON Login Credentials
-{
-    "email" : "email",
-    "password" : "password"
-}
+•	JSON Login Credentials  
+{  
+    "email" : "email",  
+    "password" : "password"  
+}  
 
 •	Login Request
 ![Login-Request](https://fv2-4.failiem.lv/thumb_show.php?i=uy57rbrk7&view)
