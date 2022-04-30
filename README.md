@@ -1,4 +1,4 @@
-# spring-jwt-starter  
+# spring-security-jwt 
 Spring security JWT starter, Spring boot App.  
   
 •	APIs:  
